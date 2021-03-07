@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBA Graphics editor", "GBA Graphics editor\GBA Graphics editor.csproj", "{B5A744CF-C0A1-47A9-B0FE-809605016A10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nintenlord.Hacking.GBA", "Nintenlord.Hacking\Nintenlord.Hacking.GBA\Nintenlord.Hacking.GBA.csproj", "{8800AFAE-93E4-46E8-8E91-120A5CF690AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nintenlord.Hacking.Core", "Nintenlord.Hacking\Nintenlord.Hacking.Core\Nintenlord.Hacking.Core.csproj", "{19F3EFA3-7680-4D30-8349-5D3419C998E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nintenlord", "Nintenlord.Hacking\Nintenlord\Nintenlord\Nintenlord.csproj", "{5E04A497-11FA-45C3-ADEA-F5ECFA1D1023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A744CF-C0A1-47A9-B0FE-809605016A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A744CF-C0A1-47A9-B0FE-809605016A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A744CF-C0A1-47A9-B0FE-809605016A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A744CF-C0A1-47A9-B0FE-809605016A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8800AFAE-93E4-46E8-8E91-120A5CF690AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8800AFAE-93E4-46E8-8E91-120A5CF690AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8800AFAE-93E4-46E8-8E91-120A5CF690AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8800AFAE-93E4-46E8-8E91-120A5CF690AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F3EFA3-7680-4D30-8349-5D3419C998E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F3EFA3-7680-4D30-8349-5D3419C998E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F3EFA3-7680-4D30-8349-5D3419C998E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F3EFA3-7680-4D30-8349-5D3419C998E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E04A497-11FA-45C3-ADEA-F5ECFA1D1023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E04A497-11FA-45C3-ADEA-F5ECFA1D1023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E04A497-11FA-45C3-ADEA-F5ECFA1D1023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E04A497-11FA-45C3-ADEA-F5ECFA1D1023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C964E427-4273-4CAC-AA2A-FCC796B579B0}
+	EndGlobalSection
+EndGlobal
