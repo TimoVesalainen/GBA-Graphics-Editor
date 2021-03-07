@@ -15,7 +15,7 @@
     <ManifestCertificateThumbprint>E2F67F363BC76D4356D067BB9F780285F336CBFF</ManifestCertificateThumbprint>
     <ManifestKeyFile>unLZ-GBA replacement_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <ApplicationIcon>gba cart icon.ico</ApplicationIcon>
     <FileUpgradeFlags>
